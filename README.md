@@ -14,3 +14,4 @@ Consigli:
 **6** Creo un li per l'elemento della lista che sta leggendo
 **7** Appendo li creato all'ul
 **8** Gli inserisco il testo con l'elemento corrispondente della lista.
+**9** incremento il contatore.
